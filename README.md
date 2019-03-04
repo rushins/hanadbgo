@@ -1,4 +1,7 @@
 # hanadbgo
 SAP HANA Database GO connectivity
-Developer Rushi NS 
+######
+
+Developer Rushi NS
+ 
 All copyrights to SAP  
